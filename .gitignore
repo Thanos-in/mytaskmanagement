@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+*.sqlite3
+*.log
+
+# Django
+env/
+*.env
+db.sqlite3
+
+# Node/Vue
+node_modules/
+dist/
+npm-debug.log*
+yarn-error.log*
+
+# OS va IDE fayllari
+.DS_Store
+.vscode/
+.idea/
+
+# Tailwind va PostCSS kesh
+.postcss-cache/
